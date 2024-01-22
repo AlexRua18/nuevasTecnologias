@@ -7,3 +7,5 @@ else :
 
 
 print("Cambio a la rama desarrollo python")
+
+print ("Mi compañero esta loco")
